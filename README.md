@@ -12,3 +12,13 @@
 
 모든 웹 이미지중 img 태그를 단 이미지만 바꿉니다.
 이외의 이미지는 그대로 입니다(죄송합니다. 개선했어야 하는데 귀찮았어요. 죄송합니다)
+
+English version 
+
+Just download this index.js and the JSON file, place them in an empty folder, go to your Google Chrome extensions, toggle developer mode, and select that folder under "Load unpacked extension." You can check the release notes, but there may be errors or inaccuracies (and of course, here too).
+
+Try it out with a friend
+
+It only replaces images with `img` tags among all web images. All other images remain unchanged (I’m sorry. I should have improved this, but I was too lazy. My apologies).
+
+I use deepl
